@@ -16,7 +16,7 @@ The Hate Map was initiated by Bjørn Ihler, a survivor of hate-based terrorism, 
 
 ---
 <h1>The Data</h1>
-All data in the Hate Map is available to researchers and the public under Creative Commons with attribution. *To cite the Hate Map use the following templates.*
+All data in the Hate Map is available for noncommercial use to researchers and the public under noncommercial Creative Commons with attribution. *To cite the Hate Map use the following templates.*
 
 
 <hr>
